@@ -1,0 +1,3 @@
+[submodule "zeabus_elec"]
+	path = zeabus_elec
+	url = git@github.com:zeabusTeam/zeabus-elec-code.git
