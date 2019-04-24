@@ -2,3 +2,7 @@
 	path = zeabus_utility
 	url = https://github.com/zeabusTeam/zeabus_utility.git
 	branch = master
+[submodule "zeabus_elec"]
+	path = zeabus_elec
+	url = http://github.com/zeabusTeam/zeabus-elec-code.git
+	branch = robot
