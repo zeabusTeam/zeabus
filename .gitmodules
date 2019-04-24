@@ -6,3 +6,7 @@
 	path = zeabus_elec
 	url = http://github.com/zeabusTeam/zeabus-elec-code.git
 	branch = robot
+[submodule "zeabus_vision"]
+	path = zeabus_vision
+	url = http://github.com/zeabusTeam/zeabus_vision.git
+	branch = master
