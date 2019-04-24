@@ -10,3 +10,7 @@
 	path = zeabus_vision
 	url = http://github.com/zeabusTeam/zeabus_vision.git
 	branch = master
+[submodule "zeabus_component"]
+	path = zeabus_component
+	url = https://github.com/zeabusTeam/zeabus_component.git
+	branch = master
