@@ -1,0 +1,4 @@
+[submodule "zeabus_utility"]
+	path = zeabus_utility
+	url = http://github.com/zeabusTeam/zeabus_utility.git
+	branch = master
