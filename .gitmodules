@@ -17,3 +17,7 @@
 [submodule "zeabus_mission"]
 	path = zeabus_mission
 	url = https://github.com/zeabusTeam/zeabus_mission.git
+[submodule "zeabus_testing"]
+	path = zeabus_testing
+	url = https://github.com/zeabusTeam/zeabus_testing.git
+	branch = master
