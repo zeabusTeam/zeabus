@@ -8,7 +8,7 @@
 	branch = robot
 [submodule "zeabus_vision"]
 	path = zeabus_vision
-	url = http://github.com/zeabusTeam/zeabus_vision.git
+	url = git@github.com:zeabusTeam/zeabus_vision.git
 	branch = master
 [submodule "zeabus_mission"]
 	path = zeabus_mission
