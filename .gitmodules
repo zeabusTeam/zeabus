@@ -33,9 +33,9 @@
 	path = zeabus_model
 	url = https://github.com/zeabusTeam/zeabus_model.git
 	branch = master
-[submodule "zeabus_fusion"]
-	path = zeabus_fusion
-	url = https://github.com/zeabusTeam/zeabus_fusion.git
+[submodule "zeabus_localize"]
+	path = zeabus_localize
+	url = https://github.com/zeabusTeam/zeabus_localize.git
 	branch = master
 [submodule "zeabus_minimal"]
 	path = zeabus_minimal
