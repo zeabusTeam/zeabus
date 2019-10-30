@@ -17,3 +17,35 @@
 	path = zeabus_testing
 	url = https://github.com/zeabusTeam/zeabus_testing.git
 	branch = master
+[submodule "zeabus_library"]
+	path = zeabus_library
+	url = https://github.com/zeabusTeam/zeabus_library.git
+	branch = master
+[submodule "zeabus_control"]
+	path = zeabus_control
+	url = https://github.com/zeabusTeam/zeabus_control.git
+	branch = master
+[submodule "zeabus_manager"]
+	path = zeabus_manager
+	url = https://github.com/zeabusTeam/zeabus_manager.git
+	branch = master
+[submodule "zeabus_model"]
+	path = zeabus_model
+	url = https://github.com/zeabusTeam/zeabus_model.git
+	branch = master
+[submodule "zeabus_localize"]
+	path = zeabus_localize
+	url = https://github.com/zeabusTeam/zeabus_localize.git
+	branch = master
+[submodule "zeabus_minimal"]
+	path = zeabus_minimal
+	url = https://github.com/zeabusTeam/zeabus_minimal.git
+	branch = master
+[submodule "zeabus_sensor"]
+	path = zeabus_sensor
+	url = https://github.com/zeabusTeam/zeabus_sensor.git
+	branch = master
+[submodule "zeabus_hydrophone"]
+	path = zeabus_hydrophone
+	url = https://github.com/zeabusTeam/zeabus_hydrophone.git
+	branch = master
