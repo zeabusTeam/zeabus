@@ -51,4 +51,4 @@
 	branch = master
 [submodule "zeabus_ui"]
 	path = zeabus_ui
-	url = https://github.com/zeabusTeam/zeabus_ui_hydrophone.git
+	url = https://github.com/zeabusTeam/zeabus_ui.gits
